@@ -6,13 +6,13 @@
 권한 있으신분들 자유롭게 수정 해주세요...
 
 ## 책 읽기
-- **이펙티브 자바 3판**
+- **이펙티브 자바 3판** [https://github.com/delicious-tangerine/effective-java]
   - 기간 : 2020.12월 한달
   - 참여 : 정균, 정우, 정원 지선
 
 
 ## 발표
-- **Spring Webflux 맛보기**
+- **Spring Webflux 맛보기** [https://github.com/delicious-tangerine/awesome-spring-webflux]
   - 일자 : 2월 첫주
   - 발표자 : 정원
   
