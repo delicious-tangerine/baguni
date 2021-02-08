@@ -16,7 +16,7 @@
   - 일자 : 2월 첫주
   - 발표자 : 정원
   
-- **JVM & GC란 ?**
+- **JVM 이란?** [https://github.com/wjdrbs96/Today-I-Learn/blob/master/Java/JVM/JVM.md]
   - 일자 : 2월 둘째주
   - 발표자 : 정균
 
