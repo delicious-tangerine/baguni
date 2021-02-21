@@ -10,6 +10,9 @@
   - 기간 : 2020.12월 한달
   - 참여 : 정균, 정우, 정원 지선
 
+- **클린코드** [https://github.com/delicious-tangerine/clean-code]
+  - 참여 : 정균, 정우
+
 
 ## 발표
 - **Spring Webflux 맛보기** [https://github.com/delicious-tangerine/awesome-spring-webflux]
