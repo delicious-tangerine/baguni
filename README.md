@@ -13,6 +13,7 @@
 - **클린코드** [https://github.com/delicious-tangerine/clean-code]
   - 참여 : 정균, 정우
 
+- **kube씨의 행복 여행** [https://github.com/delicious-tangerine/kube-travel-for-happiness]
 
 ## 발표
 - **Spring Webflux 맛보기** [https://github.com/delicious-tangerine/awesome-spring-webflux]
