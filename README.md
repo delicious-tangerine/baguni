@@ -19,17 +19,10 @@
 
 ## 발표
 - **Spring Webflux 맛보기** [https://github.com/delicious-tangerine/awesome-spring-webflux]
-  - 일자 : 2월 첫주
   - 발표자 : 정원
   
 - **JVM 이란?** [https://github.com/wjdrbs96/Today-I-Learn/blob/master/Java/JVM/JVM.md]
-  - 일자 : 2월 둘째주
   - 발표자 : 정균
-
-- **발표 서버리스로 만드는 간단 크롤러**
-  - 일자 : 2월 셋째주
-  - 발표자 : 지선
-
 
 ## 프로젝트
 - 할 수 있을까?
