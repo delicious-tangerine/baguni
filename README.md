@@ -13,7 +13,9 @@
 - **클린코드** [https://github.com/delicious-tangerine/clean-code]
   - 참여 : 정균, 정우
 
-- **kube씨의 행복 여행** [https://github.com/delicious-tangerine/kube-travel-for-happiness]
+- **쿠버네티스 인 액션** [https://github.com/delicious-tangerine/kube-travel-for-happiness]
+
+- **Real MySQL** [https://github.com/delicious-tangerine/real-my-s-gyul]
 
 ## 발표
 - **Spring Webflux 맛보기** [https://github.com/delicious-tangerine/awesome-spring-webflux]
@@ -27,10 +29,6 @@
 - **발표 서버리스로 만드는 간단 크롤러**
   - 일자 : 2월 셋째주
   - 발표자 : 지선
-  
-- **발표 example**
-  - 일자 : 2월 넷째주
-  - 발표자 : 정우
 
 
 ## 프로젝트
