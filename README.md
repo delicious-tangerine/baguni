@@ -17,6 +17,8 @@
 
 - **Real MySQL** [https://github.com/delicious-tangerine/real-my-s-gyul]
 
+- **마이크로서비스 패턴** [https://github.com/delicious-tangerine/microservices-pattern]
+
 ## 발표
 - **Spring Webflux 맛보기** [https://github.com/delicious-tangerine/awesome-spring-webflux]
   - 발표자 : 정원
