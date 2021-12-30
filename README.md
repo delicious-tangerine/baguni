@@ -8,7 +8,7 @@
 ## 책 읽기
 - **이펙티브 자바 3판** [https://github.com/delicious-tangerine/effective-java]
   - 기간 : 2020.12월 한달
-  - 참여 : 정균, 정우, 정원 지선
+  - 참여 : 정균, 정우, 정원, 지선
 
 - **클린코드** [https://github.com/delicious-tangerine/clean-code]
   - 참여 : 정균, 정우
@@ -16,8 +16,10 @@
 - **쿠버네티스 인 액션** [https://github.com/delicious-tangerine/kube-travel-for-happiness]
 
 - **Real MySQL** [https://github.com/delicious-tangerine/real-my-s-gyul]
+  - 참여 : 정균, 정원, 지선
 
 - **마이크로서비스 패턴** [https://github.com/delicious-tangerine/microservices-pattern]
+  - 참여 : 보배, 승아, 세훈, 정균, 정우, 정원, 종현, 치훈
 
 ## 발표
 - **Spring Webflux 맛보기** [https://github.com/delicious-tangerine/awesome-spring-webflux]
